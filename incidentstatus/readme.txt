@@ -1,6 +1,6 @@
 === About ===
 name: Incident Status
-website: https://github.com/mgnazzo/Ushahidi_plugins/incidentstatus
+website: https://github.com/mgnazzo/Ushahidi_plugins/
 description: Allows to track the status of each report
 version: 0.1
 requires: 2.1

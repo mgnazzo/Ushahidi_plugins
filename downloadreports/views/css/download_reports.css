@@ -1,0 +1,14 @@
+
+.box {
+    overflow:hidden;
+    padding:10px 0px 10px 0px;
+    font-weight: bold; color:#00699b;
+}  
+.data_points{
+    width: 300px;
+    margin: 15px 0 5px;
+    border-width: 3px 0 3px;
+    border-color: #669eb9;
+    border-style: solid;
+    padding: 10px 0 10px;
+}

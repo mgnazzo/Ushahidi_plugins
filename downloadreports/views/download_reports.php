@@ -87,16 +87,16 @@ $(document).ready(function() {
 
 			$("#from_date").datepicker({ 
 				showOn: "both", 
-				buttonImage: "<?php echo $calendar_img; ?>", 
-			
-				
+				buttonImage: "<?php echo $calendar_img; ?>",
+				changeMonth: true,
+				changeYear: true 
 			});
 			
 			$("#to_date").datepicker({ 
-				
 				showOn: "both", 
-				buttonImage: "<?php echo $calendar_img; ?>", 
-							
+				buttonImage: "<?php echo $calendar_img; ?>",
+				changeMonth: true,
+				changeYear: true							
 			});
 			
 			$("#reportForm").validate({
